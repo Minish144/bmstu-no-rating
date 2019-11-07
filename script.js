@@ -1,0 +1,1 @@
+document.getElementsByTagName("H5")[0].removeAttribute("col-md-6");
