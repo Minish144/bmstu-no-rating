@@ -1,1 +1,2 @@
-document.getElementsByTagName("H5")[0].removeAttribute("col-md-6");
+var element = document.querySelector('div.col-md-6');
+element.parentElement.removeChild(element);
